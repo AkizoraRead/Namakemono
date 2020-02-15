@@ -1,3 +1,4 @@
 Namakemono
 aaa
-kimura
+木村
+柄子(AkizoraRead)
